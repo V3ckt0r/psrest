@@ -17,6 +17,9 @@ To run the binary simply execute it with your preferred user:
 ```
 Stopping the program cleanly can be done via SIGINT, ctrl+c
 
+### Get process info
+The process information can be restrived by going to `http://localhost/ps`
+
 ### Tests
 To run project tests please do the below in the project src
 ```
